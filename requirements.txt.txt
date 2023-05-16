@@ -1,8 +1,8 @@
-tensorflow==*
-fastapi==*
-uvicorn==*
-python-multipart==*
-pillow==*
-tensorflow-serving-api==*
-matplotlib==*
-numpy==*
+tensorflow
+fastapi
+uvicorn
+python-multipart
+pillow
+tensorflow-serving-api
+matplotlib
+numpy
